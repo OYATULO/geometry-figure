@@ -1,0 +1,6 @@
+C:\Users\OYATULLO\source\repos\Geometry_Library\Geometry_Library\bin\Debug\Geometry_Library.dll
+C:\Users\OYATULLO\source\repos\Geometry_Library\Geometry_Library\bin\Debug\Geometry_Library.pdb
+C:\Users\OYATULLO\source\repos\Geometry_Library\Geometry_Library\obj\Debug\Geometry_Library.csproj.AssemblyReference.cache
+C:\Users\OYATULLO\source\repos\Geometry_Library\Geometry_Library\obj\Debug\Geometry_Library.csproj.CoreCompileInputs.cache
+C:\Users\OYATULLO\source\repos\Geometry_Library\Geometry_Library\obj\Debug\Geometry_Library.dll
+C:\Users\OYATULLO\source\repos\Geometry_Library\Geometry_Library\obj\Debug\Geometry_Library.pdb
